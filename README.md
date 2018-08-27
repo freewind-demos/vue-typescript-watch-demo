@@ -10,3 +10,5 @@ Run
 npm install
 npm run serve
 ```
+
+![demo](./images/demo.jpg)
